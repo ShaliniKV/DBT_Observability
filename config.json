@@ -1,0 +1,10 @@
+{
+    "database_type" : "snowflake",
+    "sf_database" : "DBT_OBSERVABILITY",
+    "sf_src_schema" : "ELEMENTARY",
+    "sf_account" : "hdfeymr-tigeranalytics_partner",
+    "sf_user" : "DWHBI_DEVELOPER",
+    "sf_password" : "Tiger@dwhbi1",   
+    "sf_warehouse" : "DWHBI_DEVELOPER_WH",
+    "sf_role" : "DWHBI_DEVELOPER"
+}
